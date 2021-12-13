@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\programering\\NäsanÖverE\\NäsanÖverE\\NäsanÖverE.csproj": {}
+    "C:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\programering\\NäsanÖverE\\NäsanÖverE\\NäsanÖverE.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\programering\\NäsanÖverE\\NäsanÖverE\\NäsanÖverE.csproj": {
+    "C:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\programering\\NäsanÖverE\\NäsanÖverE\\NäsanÖverE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\programering\\NäsanÖverE\\NäsanÖverE\\NäsanÖverE.csproj",
+        "projectUniqueName": "C:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\programering\\NäsanÖverE\\NäsanÖverE\\NäsanÖverE.csproj",
         "projectName": "NäsanÖverE",
-        "projectPath": "c:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\programering\\NäsanÖverE\\NäsanÖverE\\NäsanÖverE.csproj",
+        "projectPath": "C:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\programering\\NäsanÖverE\\NäsanÖverE\\NäsanÖverE.csproj",
         "packagesPath": "C:\\Users\\mesquitabohm.adrian\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\programering\\NäsanÖverE\\NäsanÖverE\\obj\\",
+        "outputPath": "C:\\Users\\mesquitabohm.adrian\\Desktop\\visual studio\\programering\\NäsanÖverE\\NäsanÖverE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mesquitabohm.adrian\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,16 @@
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\NäsanÖverE\NäsanÖverE\bin\Debug\net5.0\NäsanÖverE.exe
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\NäsanÖverE\NäsanÖverE\bin\Debug\net5.0\NäsanÖverE.deps.json
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\NäsanÖverE\NäsanÖverE\bin\Debug\net5.0\NäsanÖverE.runtimeconfig.json
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\NäsanÖverE\NäsanÖverE\bin\Debug\net5.0\NäsanÖverE.runtimeconfig.dev.json
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\NäsanÖverE\NäsanÖverE\bin\Debug\net5.0\NäsanÖverE.dll
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\NäsanÖverE\NäsanÖverE\bin\Debug\net5.0\ref\NäsanÖverE.dll
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\NäsanÖverE\NäsanÖverE\bin\Debug\net5.0\NäsanÖverE.pdb
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\NäsanÖverE\NäsanÖverE\obj\Debug\net5.0\NäsanÖverE.csproj.AssemblyReference.cache
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\NäsanÖverE\NäsanÖverE\obj\Debug\net5.0\NäsanÖverE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\NäsanÖverE\NäsanÖverE\obj\Debug\net5.0\NäsanÖverE.AssemblyInfoInputs.cache
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\NäsanÖverE\NäsanÖverE\obj\Debug\net5.0\NäsanÖverE.AssemblyInfo.cs
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\NäsanÖverE\NäsanÖverE\obj\Debug\net5.0\NäsanÖverE.csproj.CoreCompileInputs.cache
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\NäsanÖverE\NäsanÖverE\obj\Debug\net5.0\NäsanÖverE.dll
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\NäsanÖverE\NäsanÖverE\obj\Debug\net5.0\ref\NäsanÖverE.dll
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\NäsanÖverE\NäsanÖverE\obj\Debug\net5.0\NäsanÖverE.pdb
+C:\Users\mesquitabohm.adrian\Desktop\visual studio\programering\NäsanÖverE\NäsanÖverE\obj\Debug\net5.0\NäsanÖverE.genruntimeconfig.cache
