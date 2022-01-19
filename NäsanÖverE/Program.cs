@@ -15,7 +15,7 @@ int i = 10;
 bool fråga = false;
 while (fråga==false)
 {
-    Console.WriteLine(i);         // räkna ner till 0
+    Console.WriteLine(i);         // räkna ner till 0.
     i = i - 1;
     if (i<0)
     {
@@ -77,7 +77,6 @@ Console.ReadLine();
 
 */
 
-if(röd)
 
 
 
