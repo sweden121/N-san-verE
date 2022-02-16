@@ -74,10 +74,8 @@ if (text=="värde"&&flint==false)
 }
 
 Console.ReadLine();
-
-*/
-
-
+console write line
+*//
 
 
 
